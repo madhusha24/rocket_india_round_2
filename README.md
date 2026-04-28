@@ -61,8 +61,9 @@ Main components
 * Surge: ~1.0x – 1.3x
 * Minimum fare: ₹60
 
+HOW TO RUN
+
+javac Main.java
+java Main
 
 
-## 👩‍💻 Built by
-
-Madhusha Harini
